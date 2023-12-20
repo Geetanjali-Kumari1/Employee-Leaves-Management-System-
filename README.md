@@ -5,6 +5,9 @@ PHP technologies create user-friendly interfaces for both employees and administ
 
 Real-time updates on leave application statuses enhance transparency, keeping employees and managers informed. Automated workflows minimize manual intervention, optimizing the approval process for increased efficiency. In essence, ELMS is a comprehensive and user-friendly solution, combining distributed architecture, centralized storage, PHP interfaces, and MySQL connectivity to streamline leave management processes.
 
+![image](https://github.com/Geetanjali-Kumari1/Employee-Leaves-Management-System-/assets/122178957/c7d9a178-0440-4ae2-98cf-4dfe4b62ec17)
+
+
 
 # MODULES
 Employee leave management system (ELMS) divided into two modules:
