@@ -1,4 +1,4 @@
-# Employee-Leave-Management-System (ELMS)
+# Employee-Leaves-Management-System (ELMS)
 The Employee Leave Management System (ELMS) is a streamlined solution designed for efficient leave management within the organization. Its distributed architecture ensures accessibility across departments, fostering seamless communication. Centralized storage on MySQL Server ensures data integrity and security, serving as a singular source for leave-related information.
 
 PHP technologies create user-friendly interfaces for both employees and administrators, enabling dynamic and interactive experiences. The MySQL Connection methodology ensures stable and scalable database connectivity, enhancing ELMS performance.
@@ -121,4 +121,4 @@ or Register a new user.
 
 
    
-# Employee-Leaves-Management-System-
+
